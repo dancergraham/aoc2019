@@ -1,3 +1,3 @@
-# aoc2019
+# Advent of Code 2019
 
-I lost the rest of my solutions! 
+I found the rest of my solutions! 
